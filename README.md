@@ -2,4 +2,4 @@
 
 hello,
 
-I have used three different javascript codes.
+there are three different methods of code using javascript.
